@@ -2,6 +2,7 @@
 
 **Todooolist** is a Streamlit-based task management application that helps you prioritize and manage your tasks effectively. It features a simple interface for managing tasks, tracking analytics, and visualizing trends in urgency and importance.
 ![image](https://github.com/user-attachments/assets/b10bcc81-f439-45c1-bbc6-26e56e6005b8)
+![image](https://github.com/user-attachments/assets/b99f4830-72c2-4fac-a071-4ce02beb74c6)
 
 ---
 
